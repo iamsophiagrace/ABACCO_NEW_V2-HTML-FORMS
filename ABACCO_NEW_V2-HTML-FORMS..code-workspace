@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Menu"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ABACCO_NEW_V2-HTML-FORMS"
+	}
+}
